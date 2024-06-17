@@ -1,0 +1,37 @@
+﻿Variable Name,Description
+SubjID,Participant ID 
+scannername,Name of scanner
+scanner,Site by scanner
+ed_traumacode,"Trauma type that led to emergency department (ED) visit; 1, 1- non-sexual assault | 2, 2- MVC | 3, 3- MCC | 4, 4- Ped vs. Auto | 5, 5-GSW | 6, 6- Stabbing | 7, 7- Fire/Burn | 8, 8- Industrial/Home Accident | 9, 9- Fall | 10, 10- Animal Bite/Attack | 11, 11- Sports Injury | 12, 12- Bike Accident/ Bike vs. Auto | 13, 13- other | 14, 14- unknown | 49, 49- sexual assault"
+ed_age_sti1,Participant Age recorded in the Emergency Department
+ed_gender_sti2,"Gender; 1, Male | 2, Female | 3, Transgender | 888, N/A | 999, Incomplete"
+ed_ethnicity_sti3,"Ethnicity; 1, Hispanic/Latino | 2, Not Hispanic/Latino | 888, N/A | 999, Incomplete"
+ed_race_sti4,"Race; 1, Black | 2, White | 3, Asian | 4, American Indian or Alaska Native | 5, Native Hawaiian or Other Pacific Islander | 6, Mixed | 7, Other | 888, N/A | 999, Incomplete"
+ed_employment_sti8,"Employment status; 0, Not working | 1, Working part-time | 2, Working full-time (more that 30 hrs a week) | 3, On disability | 4, Student | 888, N/A | 999, Incomplete"
+ed_education_sti10,"Highest Educational Degree; 1, Ph.D., M.D. or equivalent | 2, M.A./M.S. or equivalent | 3, Some graduate school | 4, B.A./B.S. or equivalent | 5, A.A. or some college | 6, High School Graduate | 7, Some High School | 8, Grammar school (8th grade or less) | 888, N/A | 999, Incomplete"
+PSStotal_1month,"PTSD Severity Scale (PSS) raw total score, assessing 1-month post-trauma, winsorized"
+PSS1_Z,"PTSD Severity Scale (PSS) raw total score, assessing 1-month post-trauma , z-scored"
+PSStotal_6month,"PTSD Severity Scale (PSS) raw total score, assessing 1-month post-trauma"
+PSS6_Z,"PTSD Severity Scale (PSS) raw total score, assessing 1-month post-trauma , winsorized"
+PSStotal_6month_adjust,"PTSD Severity Scale (PSS) raw total score, assessing 6-month post-trauma , winsorized"
+M6_Wk2,Change in PSS raw scores from month 1 to month 6 post trauma (6-month PSS - 1-month PSS)
+pdi_ed_total,"peri-traumatic distress inventory (PDI) total score, collected in ED"
+CTQTOT,"Childhood Trauma Questionnaire - Short form Raw Score, collected at 1-month post-trauma. "
+LBLA,"1-month post-trauma Left Basolateral Amygdala Reactivity to fearful - neutral faces, winsorized"
+RBLA,"1-month post-trauma Right Basolateral Amygdala Reactivity to fearful - neutral faces, winsorized"
+LBLA_v2,6-month post-trauma Left Basolateral Amygdala Reactivity to fearful - neutral faces
+RBLA_v2,6-month post-trauma Right Basolateral Amygdala Reactivity to fearful - neutral faces
+LBLA_change,Change in left BLA reactivity from month 1 to month 6 post trauma (6-month reactivity - 1-month reactivity)
+RBLA_change,Change in right reactivity from month 1 to month 6 post trauma (6-month reactivity -1-month reactivity)
+LBLA_fear,1-month post-trauma Left Basolateral Amygdala Reactivity to fearful faces
+RBLA_fear,1-month post-trauma Right Basolateral Amygdala Reactivity to fearful faces
+LBLA_neutral,6-month post-trauma Left Basolateral Amygdala Reactivity to fearful faces
+RBLA_neutral,6-month post-trauma Right Basolateral Amygdala Reactivity to fearful faces
+LBLA_v2_fear,Change in left BLA fearful face reactivity from month 1 to month 6 post trauma (6-month reactivity - 1-month reactivity)
+RBLA_v2_fear,Change in right BLA fearful face reactivity from month 1 to month 6 post trauma (6-month reactivity - 1-month reactivity)
+LBLA_v2_neutral,1-month post-trauma Left Basolateral Amygdala Reactivity to neutral faces
+RBLA_v2_neutral,1-month post-trauma Right Basolateral Amygdala Reactivity to neutral faces
+LBLA_fear_change,6-month post-trauma Left Basolateral Amygdala Reactivity to neutral faces
+RBLA_fear_change,6-month post-trauma Right Basolateral Amygdala Reactivity to neutral faces
+LBLA_neutral_change,Change in left BLA neutral face reactivity from month 1 to month 6 post trauma (6-month reactivity - 1-month reactivity)
+RBLA_neutral_change,Change in right BLA neutral face reactivity from month 1 to month 6 post trauma (6-month reactivity - 1-month reactivity)
